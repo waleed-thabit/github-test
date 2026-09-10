@@ -1,1 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAdgEMTvQ+wWIdHAJqXtJoY6ff65uu+F3Q2+j/73rrIZ waleedmohammed.g@gmali.com
